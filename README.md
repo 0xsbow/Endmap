@@ -24,7 +24,8 @@ git clone https://github.com/0xsbow/endmap.git
 cd endmap
 
 # Install dependencies
-pip install requests
+pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 # Make executable (optional)
 chmod +x endmap.py
