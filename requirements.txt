@@ -1,0 +1,6 @@
+# Install dependencies
+pip install -r requirements.txt
+
+# Or install individually
+pip install requests==2.31.0
+pip install beautifulsoup4==4.12.2
