@@ -1,5 +1,5 @@
 # EndMap - Hidden Endpoint Discovery and Fuzzing Tool
-A comprehensive Python tool for discovering and fuzzing hidden endpoints in web applications. EndMap helps security researchers, penetration testers, and developers identify hidden API endpoints, admin panels, and other sensitive paths.
+EndMap helps security researchers, penetration testers, and developers identify hidden API endpoints, admin panels, and other sensitive paths.
 
 ## Features
 ✨ **Core Features:**
