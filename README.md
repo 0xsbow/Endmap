@@ -10,10 +10,8 @@ EndMap helps security researchers, penetration testers, and developers identify 
 - 📊 **Response Code Display** - Optional HTTP status code output
 - 💾 **Result Export** - Save discovered endpoints to file
 - 🔕 **Silent Mode** - Clean output by default, verbose mode with `-v` flag
-- ⚡ **Immediate Exit** - Single Ctrl+C press terminates gracefully
 
 ## Installation
-
 ### Requirements
 - Python 3.7+
 - requests library
